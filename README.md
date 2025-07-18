@@ -7,9 +7,9 @@
 ## ✨ Features
 
 - 💬 Chat with Gemini Pro (2.5) – Real-time AI responses
-- 🔒 User Authentication (Login/Register)
+- 🔒 User Authentication (Login/Register){future work}
 - 📁 Save chat history and resume conversations
-- 🎨 Light/Dark mode support
+- 🎨 Light/Dark mode support{future work}
 - 🔧 Backend built with Node.js & Express
 - 🌐 Frontend built using React + Vite
 - 📊 MongoDB for storing user data and messages
