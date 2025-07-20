@@ -13,33 +13,6 @@ MindLoop is a modern AI-powered chat assistant built with React. It integrates w
 
 ---
 
-## 📂 Folder Structure
-
-MindLoop/
-├── public/
-├── src/
-│ ├── assets/ # Logo and images
-│ ├── components/
-│ │ ├── App.jsx
-│ │ ├── Sidebar.jsx
-│ │ ├── ChatWindow.jsx
-│ │ ├── Chat.jsx
-│ │ ├── MyContext.jsx
-│ │ └── ...
-│ ├── styles/
-│ │ ├── App.css
-│ │ ├── Sidebar.css
-│ │ └── ChatWindow.css
-│ ├── utils/
-│ │ └── gemini.js
-│ └── index.js
-├── .env
-├── .gitignore
-├── package.json
-└── README.md
-
-
----
 
 ## 🛠️ Tech Stack
 
